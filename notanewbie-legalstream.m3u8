@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/enterta
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/world.m3u8
 #EXTINF:0,  >>> Financial News
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/money.m3u8
-#EXTINF:0,  >>> Coverage
+#EXTINF:0,  >>> Live Sports
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/live.m3u8
 #EXTINF:0,  >>> Live Events
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/live.m3u8
