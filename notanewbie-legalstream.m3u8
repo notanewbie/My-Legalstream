@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0,  >>> Protestant
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/christianity/protestant.m3u8
+#EXTINF:0,  >>> US News
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/us.m3u8
+#EXTINF:0,  >>> Tech News
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/tech.m3u8
+#EXTINF:0,  >>> Coverage
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/coverage.m3u8
+#EXTINF:0,  >>> Anime
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/anime.m3u8
+#EXTINF:0,  >>> Kids
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/kids.m3u8
+#EXTINF:0,  >>> Music
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/music.m3u8
+#EXTINF:0,  >>> World News
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/world.m3u8
+#EXTINF:0,  >>> Financial News
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/money.m3u8
+#EXTINF:0,  >>> Live Events
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/live.m3u8
+#EXTINF:0,  >>> Comedy
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/comedy.m3u8
+#EXTINF:0,  >>> Podcasts
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/podcasts.m3u8
