@@ -23,3 +23,5 @@ https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/li
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/comedy.m3u8
 #EXTINF:0,  >>> Podcasts
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/podcasts.m3u8
+#EXTINF:0,  RELOAD STREAMS
+https://raw.githubusercontent.com/notanewbie/My-Legalstream/master/notanewbie-legalstream.m3u8
