@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/te
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/coverage.m3u8
 #EXTINF:0,  >>> Live Sports
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/live.m3u8
+#EXTINF:0,  >>> Entertainment
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/general.m3u8
 #EXTINF:0,  >>> Kids
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/kids.m3u8
 #EXTINF:0,  >>> Christian Music
