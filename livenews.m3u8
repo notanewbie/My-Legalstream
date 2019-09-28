@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0, tvg-logo="" group-title="",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",C-SPAN 2
-https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 2
-https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NBC News Live Event
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",ABC News Digital 3
 https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
